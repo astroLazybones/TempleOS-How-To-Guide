@@ -1,2 +1,2 @@
 # TempleOS-How-To-Guide
-A Guide for TempleOS that is still being made because I have no devices i can use for it currently.
+I will document my install of TempleOS on this guide once i have the ability to install it on a device with no uefi (TempleOS doesnt support uefi)
