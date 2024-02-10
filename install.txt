@@ -1,2 +1,1 @@
-Get a USB/CD
-use rufus/balenaEtcher either on your current device or another
+idk yet
